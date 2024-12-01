@@ -15,6 +15,7 @@ public class lacoswhile {
            soma = soma + num;
            cont++;
        }
+        System.out.println("Hello world, test");
 
 
         System.out.println("A soma dos números digitados é: " + soma);
